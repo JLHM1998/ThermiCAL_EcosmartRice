@@ -232,6 +232,14 @@ with open("Manual_Usuario_ThermiCAL.pdf", "rb") as manual_file:
         mime="application/pdf"
     )
 
+# --- Sección de Financiamiento ---
+st.markdown("### 💼 Financiamiento")
+st.markdown("""
+Esta aplicación ha sido desarrollada en el marco del proyecto **"Nuevas herramientas tecnológicas de precisión con sensores remotos para un sistema de producción sostenible en arroz, con menor consumo de agua, menor emisión de gases y mayor rendimiento, en beneficio de los agricultores de Lambayeque"**,  
+financiado por el **Programa Nacional de Investigación Científica y Estudios Avanzados (PROCIENCIA)** del **Consejo Nacional de Ciencia, Tecnología e Innovación Tecnológica (CONCYTEC)**,  
+mediante el **Contrato No. PE501086540-2024-PROCIENCIA**.
+""")
+
 # Pie de página
 st.markdown("""
     <footer>
