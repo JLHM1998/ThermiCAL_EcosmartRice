@@ -1,0 +1,13 @@
+matplotlib==3.10.1
+matplotlib-inline==0.1.7
+numpy==2.2.4
+rasterio==1.4.3
+streamlit==1.44.1
+streamlit
+rasterio
+numpy
+matplotlib
+plotly
+fpdf
+folium
+streamlit-folium
