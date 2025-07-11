@@ -237,7 +237,7 @@ st.markdown("""
     <div style="margin-top: 30px; padding: 20px; background: linear-gradient(to right, #004e92, #000428); border-radius: 12px; color: white;">
         <h3 style="margin-top: 0;">💼 Financiamiento</h3>
         <p style="font-size: 15px; line-height: 1.6;">
-            Esta aplicación ha sido desarrollada en el marco del proyecto
+            Esta aplicación ha sido desarrollada en el marco del proyecto EcosmartRice:
             <strong>"Nuevas herramientas tecnológicas de precisión con sensores remotos para un sistema de producción sostenible en arroz, con menor consumo de agua, menor emisión de gases y mayor rendimiento, en beneficio de los agricultores de Lambayeque"</strong>,
             financiado por el <strong>Programa Nacional de Investigación Científica y Estudios Avanzados (PROCIENCIA)</strong> del
             <strong>Consejo Nacional de Ciencia, Tecnología e Innovación Tecnológica (CONCYTEC)</strong>, mediante el
